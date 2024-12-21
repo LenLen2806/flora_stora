@@ -1,1 +1,1 @@
-# flora_stora
+# florastore
